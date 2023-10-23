@@ -1,2 +1,2 @@
 # 3rd-year
-College projects of my 3rd year
+3rd year College Project
